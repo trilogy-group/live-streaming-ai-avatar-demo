@@ -2,6 +2,8 @@
 
 ## Initial Setup:
 
+- Sign up for D-ID: https://www.d-id.com/
+- Get your API key: https://studio.d-id.com/account-settings
 - (install express) open a terminal in the folder and run - npm install express
 - (add your api key) edit the `api.json` inside the uncompressed folder and replace the emoji with your key
 
